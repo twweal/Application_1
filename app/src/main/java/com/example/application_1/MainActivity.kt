@@ -30,7 +30,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-//CCCOOOOOOOMMMMMMMMMMMEEEEEEENNNNTTTTTTTTTTTTTTTTTTT
+//CCCOOOOOOOMMMMMMMMMMMEEEEEEENNNNTTTTTTTTTTTTTTTTTTTT
 
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
